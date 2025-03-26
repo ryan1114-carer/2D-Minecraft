@@ -1,0 +1,16 @@
+/* styles.css */
+
+.scratch-container {
+
+    width: 485px;
+
+    height: 402px;
+
+    border-radius: 10px;
+
+    overflow: hidden;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+
